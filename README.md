@@ -1,8 +1,3 @@
-## Hi there 👋
-from docx import Document
-
-# Create README content for GitHub profile
-readme_content = """
 # 👋 Hi, I'm Brittany
 
 ## 💼 About Me
@@ -26,9 +21,9 @@ I'm open to collaborating on outsourcing and freelance projects where I can appl
 - I love diving into workforce trends and figuring out what really drives employee engagement.
 
 ## 🔗 Connect with Me
-- 📄 [View My Resume]([https://your-resume-link.com]([https://docs.google.com/document/d/1VWWfr9yoA2830G0fVuzO0zr4mna-eNI1VUSBMrZUfp0/edit?usp=sharing])
+- 📄 [View My Resume](https://docs.google.com/document/d/1VWWfr9yoA2830G0fVuzO0zr4mna-eNI1VUSBMrZUfp0/edit?usp=sharing)
 - 💼 [My Portfolio](https://your-portfolio-link.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/brittany-williams-hr/])
+- 🔗 [LinkedIn](https://www.linkedin.com/in/brittany-williams-hr/)
 
 Let's collaborate and create impactful, data-informed solutions together!
 """
