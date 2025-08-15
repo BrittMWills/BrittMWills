@@ -22,7 +22,7 @@ I'm open to collaborating on outsourcing and freelance projects where I can appl
 
 ## 🔗 Connect with Me
 - 📄 [View My Resume](https://docs.google.com/document/d/1VWWfr9yoA2830G0fVuzO0zr4mna-eNI1VUSBMrZUfp0/edit?usp=sharing)
-- 💼 [My Portfolio](https://your-portfolio-link.com)
+- 💼 [My Portfolio](https://github.com/BrittMWills)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brittany-williams-hr/)
 
 Let's collaborate and create impactful, data-informed solutions together!
